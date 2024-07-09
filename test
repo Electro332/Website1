@@ -1,1 +1,30 @@
-Test testing 123
+<!-- Made By Timothy Davis -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My REAL website</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+     <div class="test"><section><main><h1>Timothy Davis</h1> <hr>
+        <p class="lol">My name is Timothy Davis</p> </main>
+        <figure><img width="300" src="https://ca.slack-edge.com/T04J5UP8M-U077110QDS8-083010f778d0-512" width="500"alt=Me>
+        <figcaption>This is me</figcaption>
+    </figure> </section>
+    <section><h2>About me</h2> 
+    <ul><li class="Li">I'm part of the <a href="https://www.hiddengeniusproject.org/?gad_source=1&gclid=CjwKCAjw1emzBhB8EiwAHwZZxaxOIYNquAeGZUUHHh2Rxy0ytpGnhjXfkCyjqTmwvd5Y7m6W_1agFhoCNM4QAvD_BwE"> Hidden Genius Project</a> </li> 
+    <li>I <em class="love">love</em> to play video games</li>
+    <li>I <strong class="hate">hate</strong> brussel sprouts</li> </section>
+    <section><h2>About you</h2>
+    <fieldset> <legend>Are you an Introvert or a Extrovert?</legend> 
+    <label><input id="introvert" type="radio" name="introvert-extrovert"> Introvert </label> 
+    <label><input id="extrovert" type="radio" name="introvert-extrovert"> Extrovert </label> </fieldset>
+    <fieldset><legend>Does your mom know you're gay?</legend>
+    <label><input required id="yes" type="radio" name="yes-no-maybe"> Yes </label>
+    <label><input id="no" type="radio" name="yes-no-maybe"> No </label> 
+    <label><input id="maybe" type="radio" name="yes-no-maybe"> Maybe </label>  </fieldset>
+    <button class="button">Gullible Button</button> </section> </div>
+</body>
+</html>
